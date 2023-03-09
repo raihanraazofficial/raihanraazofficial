@@ -6,7 +6,7 @@
 
 - 🔭 I am currently Working on Explainable AI, Transformer Learning
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, AI, NLP, Data Science**
-- 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanraazofficial)
+- 👨‍💻 All of my projects are available at  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanraazofficial)
 - 👯 I’m looking to collaborate on Data Fusion and Self Automations.
 - 🤔 I’m looking for help with AI projects
 - 💬 Ask me about **Machine Learning, Deep Learning, AI, NLP, Data Science**
