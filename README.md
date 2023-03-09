@@ -1,10 +1,40 @@
 <a href="https://github.com/raihanraazofficial/raihanraazofficial"><img src="https://readme-typing-svg.demolab.com?font=Genos&size=50&pause=1000&color=F76E22&center=true&vCenter=true&multiline=true&width=1520&height=320&lines=Raihan+Uddin;Data+Science+and+Machine+Learning+Enthusiasts;Experienced+In+AI%2C+DS%2C+DL%2C+ML%2C+CV;2%2B+Years+of+Coding+Experience;Always+Learn+New+Things" alt="Typing SVG" /></a>
+<br/>
+<p align="center">
+  <a href="https://www.youtube.com/@raihanraaz.official?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8Vg1b1r1-HTd7bnZBd0Mog?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="https://www.youtube.com/@deepneuronai">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8Vg1b1r1-HTd7bnZBd0Mog?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/ahammadmejbah?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ahammadmejbah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/raihanraazofficial?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ahammadmejbah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Robotics-brown">
+<img src="https://img.shields.io/badge/Machine Learning-green">
+<img src="https://img.shields.io/badge/Deep Learning-red">
+<img src="https://img.shields.io/badge/Computer Vision-magenta">
+<img src="https://img.shields.io/badge/Natural Language Processing-yellow">
+<img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+<img src="https://img.shields.io/badge/Python-brown">
+<img src="https://img.shields.io/badge/Tensorflow-green">
+<img src="https://img.shields.io/badge/Pytorch-red">
+<img src="https://img.shields.io/badge/NLTK-magenta">
+<img src="https://img.shields.io/badge/MaxNet-yellow">
+<img src="https://img.shields.io/badge/Pandas-blue"> 
+<img src="https://img.shields.io/badge/Numpy-brown">
+<img src="https://img.shields.io/badge/Scikit Learn-green">
+<img src="https://img.shields.io/badge/Scikit Image-red">
+<img src="https://img.shields.io/badge/Matplotlib-magenta">
+<img src="https://img.shields.io/badge/OpenCV-yellow">
+</p>
 
 <b><h2><code> About Me </code></h2></b>
 
-<h3 align="Justify">🔥🔥 I'm an avid learner with a passion for Machine Learning, Deep Learning, Artificial Intelligence, and Natural Language Processing. I'm constantly seeking new challenges to improve my skills in these areas. As I learn, I enjoy sharing my knowledge with others and collaborating on exciting projects that utilize cutting-edge technologies. I believe that the best way to learn is through hands-on experience and experimentation. </h3> 
+<p align="Justify">🔥🔥 I'm an avid learner with a passion for Machine Learning, Deep Learning, Artificial Intelligence, and Natural Language Processing. I'm constantly seeking new challenges to improve my skills in these areas. As I learn, I enjoy sharing my knowledge with others and collaborating on exciting projects that utilize cutting-edge technologies. I believe that the best way to learn is through hands-on experience and experimentation. </p> 
 
-<h3 align="Justify"> I'm always looking for new opportunities to work with like-minded individuals and contribute to innovative projects. If you have any ideas or projects in mind, feel free to reach out to me. Let's work together to create something amazing!🔥🔥</h3> 
+<p align="Justify"> I'm always looking for new opportunities to work with like-minded individuals and contribute to innovative projects. If you have any ideas or projects in mind, feel free to reach out to me. Let's work together to create something amazing!🔥🔥</p> 
 
 - 🔭 I am currently Working on Explainable AI, Transformer Learning
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, AI, NLP, Data Science**
