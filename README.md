@@ -2,17 +2,11 @@
 
 ## About Me
 
-<h3 align="Left">🔥🔥 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. When I go above and above for my customers, I get a rush from demonstrating the depth of my expertise and earning their confidence. I am able to motivate myself and I like working on assignments that push me to my limits. I want to achieve the goals that have been set for me and guarantee that I will devote my whole attention to the work that has been given to me. 🔥🔥</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihanraazofficial&label=Profile%20views&color=0e75b6&style=flat" alt="raihanraazofficial" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/raihanraaz_main" target="blank"><img src="https://img.shields.io/twitter/follow/raihanraaz_main?logo=twitter&style=for-the-badge" alt="raihanraaz_main" /></a> </p>
+<h3 align="Left">🔥🔥 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. When I go above and above for my customers, I get a rush from demonstrating the depth of my expertise and earning their confidence. I am able to motivate myself and I like working on assignments that push me to my limits. I want to achieve the goals that have been set for me and guarantee that I will devote my whole attention to the work that has been given to me. 🔥🔥</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihanraazofficial&label=Profile%20views&color=0e75b6&style=flat" alt="raihanraazofficial" /> </p> <p align="left"> <a href="https://twitter.com/raihanraaz_main" target="blank"><img src="https://img.shields.io/twitter/follow/raihanraaz_main?logo=twitter&style=for-the-badge" alt="raihanraaz_main" /></a> </p>
 
 - 🔭 I am currently Working on Explainable AI, Transformer Learning
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, AI, NLP, Data Science**
-- 👨‍💻 All of my projects are available at [https://github.com/raihanraazofficial](https://github.com/raihanraazofficial)
+- 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanraazofficial)
 - 👯 I’m looking to collaborate on Data Fusion and Self Automations.
 - 🤔 I’m looking for help with AI projects
 - 💬 Ask me about **Machine Learning, Deep Learning, AI, NLP, Data Science**
