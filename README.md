@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on Data Fusion and Self Automations.
 - 🤔 I’m looking for help with AI projects
 - 💬 Ask me about **Machine Learning, Deep Learning, AI, NLP, Data Science**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raihanraazofficial/)
+- 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/raihanraazofficial/)
 - 😄 Pronouns: Raihan Uddin (Raaz)
 - ⚡ Fun fact: Nothing
 
