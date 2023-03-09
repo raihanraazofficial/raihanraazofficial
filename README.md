@@ -24,7 +24,7 @@
 <a href="https://fb.com/raihanraaz.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raihanraaz.official" height="30" width="40" /></a>
 <a href="https://instagram.com/raihan_raaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raihan_raaz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/raihanraaz.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raihanraaz.official" height="30" width="40" /></a>
-<a href="https://discord.gg/9936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9936" height="30" width="40" /></a>
+<a href="https://discord.gg/710363350088941678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9936" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
