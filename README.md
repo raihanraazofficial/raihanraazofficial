@@ -1,5 +1,7 @@
 <a href="https://github.com/raihanraazofficial/raihanraazofficial"><img src="https://readme-typing-svg.demolab.com?font=Genos&size=50&pause=1000&color=F76E22&center=true&vCenter=true&multiline=true&width=1520&height=320&lines=Raihan+Uddin;Data+Science+and+Machine+Learning+Enthusiasts;Experienced+In+AI%2C+DS%2C+DL%2C+ML%2C+CV;2%2B+Years+of+Coding+Experience;Always+Learn+New+Things" alt="Typing SVG" /></a>
 
+## About Me
+
 <h3 align="Left">🔥🔥 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. When I go above and above for my customers, I get a rush from demonstrating the depth of my expertise and earning their confidence. I am able to motivate myself and I like working on assignments that push me to my limits. I want to achieve the goals that have been set for me and guarantee that I will devote my whole attention to the work that has been given to me. 🔥🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihanraazofficial&label=Profile%20views&color=0e75b6&style=flat" alt="raihanraazofficial" /> </p>
