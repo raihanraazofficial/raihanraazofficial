@@ -87,6 +87,6 @@
 ## Streak Status
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanraazofficial&" alt="raihanraazofficial" /></p>
 
-## Snake Eating My Contribution Graph
+## My Contribution Graph
 
 ![Snake animation](https://github.com/raihanraazofficial/raihanraazofficial/blob/output/github-contribution-grid-snake.svg)
