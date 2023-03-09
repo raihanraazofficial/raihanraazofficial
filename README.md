@@ -75,12 +75,14 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=raihanraazofficial&theme=onedark)](https://github.com/raihanraazofficial)
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=raihanraazofficial&theme=dark&hide_border=false)
+
 ## Total Visits
 [![](https://visitcount.itsvg.in/api?id=raihanraazofficial&label=Visitors&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-## Streak Status
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanraazofficial&" alt="raihanraazofficial" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&th
 
 ## My Contribution Graph
-
 ![Snake animation](https://github.com/raihanraazofficial/raihanraazofficial/blob/output/github-contribution-grid-snake.svg)
