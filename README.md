@@ -79,7 +79,7 @@
 
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=raihanraazofficial&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=raihanraazofficial&theme=onedark)](https://github.com/raihanraazofficial)
 
 ## Total Visits
 [![](https://visitcount.itsvg.in/api?id=raihanraazofficial&label=Visitors&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
