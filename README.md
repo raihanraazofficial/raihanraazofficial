@@ -79,8 +79,9 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=raihanraazofficial&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=raihanraazofficial&theme=radical&no-frame=false&no-bg=false&margin-w=4)]
 
+## Total Visits
 [![](https://visitcount.itsvg.in/api?id=raihanraazofficial&label=Visitors&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanraazofficial&" alt="raihanraazofficial" /></p>
