@@ -36,6 +36,10 @@
 
 <p align="Justify"> I'm always looking for new opportunities to work with like-minded individuals and contribute to innovative projects. If you have any ideas or projects in mind, feel free to reach out to me. Let's work together to create something amazing!🔥🔥</p> 
 
+## 🌐 Reach me out!
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/710363350088941678) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://facebook.com/raihanraaz.official) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/raihan_raaz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/raihanraazofficial/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raihanraaz_main) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/raihanraaz.official) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/raihanraazofficial) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanraazofficial)
+
+
 - 🔭 I am currently Working on Explainable AI, Transformer Learning
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, AI, NLP, Data Science**
 - 👨‍💻 All of my projects are available at  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanraazofficial)
@@ -46,7 +50,7 @@
 - 😄 Pronouns: Raihan Uddin (Raaz)
 - ⚡ Fun fact: Nothing
 
-## 🌐 Socials:
+## 🌐 Reach me out!
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/710363350088941678) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://facebook.com/raihanraaz.official) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/raihan_raaz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/raihanraazofficial/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raihanraaz_main) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/raihanraaz.official) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/raihanraazofficial) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanraazofficial)
 
 
