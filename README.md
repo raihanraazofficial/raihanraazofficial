@@ -2,9 +2,9 @@
 
 <b><h2><code> About Me </code></h2></b>
 
-<h3 align="Left">🔥🔥 I'm an avid learner with a passion for Machine Learning, Deep Learning, Artificial Intelligence, and Natural Language Processing. I'm constantly seeking new challenges to improve my skills in these areas. </br>
+<h3 align="Left">🔥🔥 I'm an avid learner with a passion for Machine Learning, Deep Learning, Artificial Intelligence, and Natural Language Processing. I'm constantly seeking new challenges to improve my skills in these areas. <br>
 
-As I learn, I enjoy sharing my knowledge with others and collaborating on exciting projects that utilize cutting-edge technologies. I believe that the best way to learn is through hands-on experience and experimentation. </br>
+As I learn, I enjoy sharing my knowledge with others and collaborating on exciting projects that utilize cutting-edge technologies. I believe that the best way to learn is through hands-on experience and experimentation. <br>
 
 I'm always looking for new opportunities to work with like-minded individuals and contribute to innovative projects. If you have any ideas or projects in mind, feel free to reach out to me. Let's work together to create something amazing!🔥🔥</h3> <p align="left"> 
 
