@@ -35,9 +35,10 @@
 
 <p align="Justify">🔥🔥 I'm an avid learner with a passion for Machine Learning, Deep Learning, Artificial Intelligence, and Natural Language Processing. I'm constantly seeking new challenges to improve my skills in these areas. As I learn, I enjoy sharing my knowledge with others and collaborating on exciting projects that utilize cutting-edge technologies. I believe that the best way to learn is through hands-on experience and experimentation. </p> 
 
-<p align="Justify"> I'm always looking for new opportunities to work with like-minded individuals and contribute to innovative projects. If you have any ideas or projects in mind, feel free to reach out to me. Let's work together to create something amazing!🔥🔥</p> 
+<p align="Justify"> I'm always looking for new opportunities to work with like-minded individuals and contribute to innovative projects. If you have any ideas or projects in mind, feel free to reach out to me. Let's work together to create something amazing!🔥🔥</p> <br/>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/66717534/224227103-a197b670-79f9-4927-9785-518802ee2b4f.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/66717534/224227103-a197b670-79f9-4927-9785-518802ee2b4f.gif"></img>
+
 - 🔭 I am currently Working on Explainable AI, Transformer Learning
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, AI, NLP, Data Science**
 - 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/raihanraazofficial)
