@@ -109,7 +109,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=raihanraazofficial&theme=onedark)](https://github.com/raihanraazofficial)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=raihanraazofficial&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=raihanraazofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raihanraazofficial&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanraazofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Total Visits
 [![](https://visitcount.itsvg.in/api?id=raihanraazofficial&label=Visitors&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
