@@ -1,3 +1,5 @@
+![MasterHead](https://user-images.githubusercontent.com/66717534/224225830-c145c2ef-86f6-4242-8214-c4a28951165a.png)
+
 <a href="https://github.com/raihanraazofficial/raihanraazofficial"><img src="https://readme-typing-svg.demolab.com?font=Genos&size=50&pause=1000&color=F76E22&center=true&vCenter=true&multiline=true&width=1520&height=320&lines=Raihan+Uddin;Data+Science+and+Machine+Learning+Enthusiasts;Experienced+In+AI%2C+DS%2C+DL%2C+ML%2C+CV;2%2B+Years+of+Coding+Experience;Always+Learn+New+Things" alt="Typing SVG" /></a>
 <br/>
 <p align="center">
